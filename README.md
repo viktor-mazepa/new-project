@@ -9,7 +9,4 @@ Step-by-step instructions:
 8. Add needful files and changes
 9. Commit changes: : git commit -a -m"commit_message"
 10. Push your commit to remote repository: git push main development
-11. If you need to merge changes from development branch into main: 
-
-    11.1 Checkout main branch: git checkout main
-    11.2 Merge branches: git merge development
+11. If you need to merge changes from development branch into main : checkout main branch - git checkout main ; merge branches - git merge development
